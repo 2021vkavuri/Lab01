@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab01 Capturing Button Presses</string>
+    <string name="text">temp string</string>
+    <string name="buttonString">Button</string>
 </resources>
